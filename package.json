@@ -1,0 +1,19 @@
+{
+  "name": "foodorderingapp",
+  "version": "1.0.0",
+  "description": "Food ordering app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nithishkumarr/NamsteReact-foodOrderingApp.git"
+  },
+  "author": "Nkr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nithishkumarr/NamsteReact-foodOrderingApp/issues"
+  },
+  "homepage": "https://github.com/Nithishkumarr/NamsteReact-foodOrderingApp#readme"
+}
