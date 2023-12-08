@@ -1,0 +1,19 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+  margin: 3px;
+  padding: 3px;
+  border: 1px solid black;
+}
+.head:hover {
+  border: 3px solid green;
+  background-color: #f0f0f0f0;
+}
+.logo {
+  display: flex;
+  width: 150px;
+  height: 150px;
+}
+.links {
+  display: flex;
+}
